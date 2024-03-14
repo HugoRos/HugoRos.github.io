@@ -2,11 +2,11 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: Associate professor (CNU 27) at <a href='https://www.univ-lorraine.fr/'>Université de Lorraine</a> and <a href = "https://www.loria.fr/fr/">Loria Lab</a>. #Address. Contacts. Moto. Etc.
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: hugo_rositi_adagio_bw.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>555 your office number</p>

@@ -4,7 +4,7 @@
 
 title: Hugo Rositi's personal site - in development # the website title (if blank, full name will be used instead)
 first_name: Hugo
-middle_name: 
+middle_name:
 last_name: Rositi
 email: hugo.rositi@loria.fr
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
@@ -17,8 +17,8 @@ keywords: jekyll, jekyll-theme, academic-website, portfolio-website # add your o
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: 💻 # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
-# url: https://HugoRos.github.io # the base hostname & protocol for your site
-url: http://localhost
+url: https://hugoros.github.io # the base hostname & protocol for your site
+# url: http://localhost
 baseurl: # the subpath of your site, e.g. /blog/. Leave blank for root
 last_updated: true # set to true if you want to display last updated in the footer
 impressum_path: # set to path to include impressum link in the footer, use the same path as permalink in a page, helps to conform with EU GDPR
@@ -221,11 +221,6 @@ exclude:
   - package.json
   - package-lock.json
   - _pages/about_einstein.md
-  - backup/
-  - _pages/blog.md
-  - _pages/dropdown.md
-  - _pages/profiles.md
-  - _pages/repositories.md
   - purgecss.config.js
   - README.md
   - readme_preview/
